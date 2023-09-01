@@ -1,27 +1,19 @@
 # HashingTweaks
 
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/independent-coder/HashingTweaks/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
-
 
 HashingTweaks is a powerful Python command-line application with several features for hashing, finding common passwords using hashes, and utilizing wordlists. This tool is designed to make working with hashes and passwords more efficient and convenient.
 
 ## Features
 
-1: Find an common password with hash (HASH2PASS)
-
-2: Create a password hash (PASS2HASH)
-
-3: Detect an hash algorithm
-
-4: Translate hash to another algorithm
-
-5: View known hash algorithms
-
-6: File Hashing
-
-7: Compare two Hash
+1. Find a common password with a hash (HASH2PASS)
+2. Create a password hash (PASS2HASH)
+3. Detect a hash algorithm
+4. Translate a hash to another algorithm
+5. View known hash algorithms
+6. File Hashing
+7. Compare two Hashes
 
 ## Table of Contents
 
@@ -73,13 +65,10 @@ Choose this option (7) to compare two hash values and determine if they are equa
 
 ## Example
 
-For example if you try to find the password and you already have your (md5, sha256, sha3_256) Pasword hash you simply type 1 select your password hashing algorithm if you dont know it go to thirth option to find your hashing algorithm
-Then enter your hash and find the correct password.
-
+For example, if you want to find the password and you already have your (md5, sha256, sha3_256) password hash, you simply type 1 and select your password hashing algorithm. If you don't know it, go to the third option to find your hashing algorithm. Then enter your hash and find the correct password.
 
 ## Conclusion
 
-SO for the common-pass.txt is an big list of 21K line of english and french common password
-It takes me a lot of times for doing these project so please consider star my project for more like this
+The common-pass.txt is a big list of 21K lines of common passwords in English and French. Developing this project took a lot of time, so please consider starring my project for more content like this.
 
 See you soon Pal ! :)
